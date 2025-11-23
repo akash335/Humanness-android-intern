@@ -1,0 +1,4 @@
+com.humanness.sample.test.app-androidTest-0 /Users/akash/Desktop/HumannessProjectLatest/app/build/generated/res/resValues/androidTest/debug
+com.humanness.sample.test.app-mergeDebugAndroidTestResources-1 /Users/akash/Desktop/HumannessProjectLatest/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.humanness.sample.test.app-mergeDebugAndroidTestResources-2 /Users/akash/Desktop/HumannessProjectLatest/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.humanness.sample.test.app-merged_res-3 /Users/akash/Desktop/HumannessProjectLatest/app/build/intermediates/merged_res/debugAndroidTest
