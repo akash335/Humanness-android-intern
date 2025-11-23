@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- XML theme just to satisfy AndroidManifest.
+         The REAL look is controlled by Compose HumannessTheme. -->
+    <style name="Theme.HumannessSample" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- You can leave this empty. Compose will handle colors. -->
+    </style>
+
+</resources>

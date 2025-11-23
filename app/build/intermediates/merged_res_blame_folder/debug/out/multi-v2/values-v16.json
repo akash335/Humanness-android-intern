@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.humanness.sample.app-mergeDebugResources-68:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/akash/.gradle/caches/transforms-4/5e591ddf1f834d860bd9e8d86d100e45/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
